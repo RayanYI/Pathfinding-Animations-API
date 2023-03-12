@@ -1,7 +1,7 @@
 #include "CSubMenu.h"
 #include<iostream>
 int main(){
-
+   
     sf::RenderWindow window({ 1600 ,900 }, "test");
     sf::Font font;
     sf::Event event;
